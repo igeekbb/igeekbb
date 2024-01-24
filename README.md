@@ -6,6 +6,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [圾皇狂喜 新手地狱？i9 13900H 魔改板U套装评测](http://example.com/2024/01/02/13900h/)
+- [Proxmoxve 安装手记 - All in One](http://example.com/2023/11/29/proxmoxve/)
+- [RackNerd黑五闪购1C1G12GB圣何塞机房评测](http://example.com/2023/11/25/racknerd/)
+- [PassWall 负载均衡 HAProxy 保姆级设置](http://example.com/2023/10/18/passwall-haproxy/)
+- [欧洲 Scaleway 年付 40RMB VPS IPV6 搭梯评测](http://example.com/2023/10/06/Scaleway/)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **igeekbb/igeekbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
