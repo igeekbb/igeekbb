@@ -5,7 +5,7 @@
 </picture>
 ### 我的一些链接
 
-- 👨‍💻 &nbsp;博客 [iGeekbb.com](https://www.igeekbb.com/)
+- 👨‍💻 &nbsp; 博客 [iGeekbb.com](https://www.igeekbb.com/)
 - ⚡ &nbsp; Twitter [Geek](https://twitter.com/geekbb)
 
 
